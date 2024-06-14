@@ -2,7 +2,7 @@
 
 ### Madas Maths
 
-[Madasmaths official sight.](https://madasmaths.com/)
+[Madasmaths official site.](https://madasmaths.com/)
 
 A collection of papers and problem sets based on the A-Level maths and further maths syllabi. The papers contained in the folder named standard are of approximate A-Level difficulty, with a few going slightly beyond. The extension papers are intended for students looking to go beyond the requirements of the A-Level, and make for an excellent bridge from A-Level to entrance exams like STEP/MAT. 
 
